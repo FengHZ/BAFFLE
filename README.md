@@ -1,5 +1,7 @@
 # Does Federated Learning Really Need Backpropagation?
 
+Here is the official implementation of the model BAFFLE in paper **Does Federated Learning Really Need Backpropagation?**
+
 ## Setup
 ### Install Package Dependencies
 ```
